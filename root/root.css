@@ -1,0 +1,23 @@
+@import url(./../vendor/fonts/fonts.css);
+
+.root {
+  font-family: 'Inter';
+}
+
+.root-normal {
+  font-family: 'Inter'; /*TODO добавить запасной шрифт*/
+  font-weight: normal;
+  font-size: large;
+  }
+
+.root-bold {
+  font-family: 'Inter'; /*TODO добавить запасной шрифт*/
+  font-weight: bold;
+  font-size:  large;
+  }
+
+.root-bolder {
+  font-family: 'Inter'; /*TODO добавить запасной шрифт*/
+  font-weight: bolder;
+  font-size:  large;
+  }
