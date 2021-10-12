@@ -5,6 +5,7 @@
 @import url(./../header/__title/header__title.css);
 @import url(./../logo/logo.css);
 @import url(./../logo/_header/logo_header.css);
+@import url(./../../page/header/__title/header__title.css);
 
 .header {
   min-height: 600px;
@@ -13,5 +14,6 @@
   padding: 0;
   border: 3px red solid;
   position: relative;
-  display: block;
+  display: flex;
+  align-items: center;
 }
