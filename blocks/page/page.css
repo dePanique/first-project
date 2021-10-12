@@ -1,0 +1,5 @@
+@import url(./../page/_colors/page_colors.css);
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+}

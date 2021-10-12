@@ -4,20 +4,14 @@
   font-family: 'Inter';
 }
 
-.root-normal {
-  font-family: 'Inter'; /*TODO добавить запасной шрифт*/
-  font-weight: normal;
-  font-size: large;
-  }
+.inter-normal {
+  font-weight: 400;
+}
 
-.root-bold {
-  font-family: 'Inter'; /*TODO добавить запасной шрифт*/
-  font-weight: bold;
-  font-size:  large;
-  }
+.inter-semi {
+  font-weight: 500;
+}
 
-.root-bolder {
-  font-family: 'Inter'; /*TODO добавить запасной шрифт*/
-  font-weight: bolder;
-  font-size:  large;
-  }
+.inter-bold {
+  font-weight: 600;
+}
