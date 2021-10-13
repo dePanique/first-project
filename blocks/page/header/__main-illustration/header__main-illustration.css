@@ -1,12 +1,10 @@
 .header__main_illustration {
-  background-image: url(./../../../../images/header/two_again.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  width: 765px;
-  height: 608px;
-  position: absolute;
   margin: 0;
   padding: 0;
+  width: 765px;
+  height: 605px;
+  border: 3px solid royalblue;
+  position: absolute;
+  right: 0;
   bottom: 0;
-  right: -51px;
 }

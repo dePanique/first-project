@@ -8,12 +8,13 @@
 @import url(./../../page/header/__title/header__title.css);
 
 .header {
+  height: 756px;
   min-height: 600px;
   max-height: 756px;
   margin: 0;
   padding: 0;
   border: 3px red solid;
-  position: relative;
+
   display: flex;
   align-items: center;
 }
